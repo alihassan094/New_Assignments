@@ -1,0 +1,41 @@
+/////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////
+/********************************QUESTION 1*************************************************/
+//int main()
+//{
+//    
+
+
+//    float a,b,c {0};
+//    cout<<"Enter three numbers with a space: ";
+//    cin>>a>>b>>c;
+//    float sqa, sqb, sqc {0};
+//    sqa = pow(a,2);
+//    sqb = pow(b,2);
+//    sqc = pow(c,2);
+//    cout<<sqa<<endl<<sqb<<endl<<sqc<<endl;
+//    cout<<"The numbers are :"<<endl<<a<<endl<<b<<endl<<c<<endl;
+//    if ( sqc == (sqa + sqb) )
+//    {
+//        cout<<"The numnbers you enetered are pythagorean tripple."<<endl;
+//        cout<<"The order is found to be c^2 = a^2 + b^2. And the answer is= "<<sqc<<endl;
+//    }
+//    else if ( sqa == (sqb + sqc) )
+//    {
+//        cout<<"The numnbers you enetered are pythagorean tripple."<<endl;
+//        cout<<"The order is found to be a^2 = b^2 + c^2. And the answer is= "<<sqa<<endl;        
+//    }
+//    else if ( sqb == (sqa + sqc) )
+//    {
+//        cout<<"The numnbers you enetered are pythagorean tripple."<<endl;
+//        cout<<"The order is found to be b^2 = a^2 + c^2. And the answer is= "<<sqb<<endl;
+//    }
+//    else
+//    {
+//        cout<<"Sorry, the numbers you entered are not pythagorean tripple."<<endl;
+//    }
+//    
+//    return 0;
+//}
+

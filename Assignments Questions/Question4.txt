@@ -1,0 +1,39 @@
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///********************************QUESTION 4*************************************************/    
+//int main()
+//{
+//    
+
+//    
+////    int num1, num2, res {0};
+////    char opert;
+////    cout<<"Welcome to the calculator program."<<endl;
+////    cout<<"Enter two numbers for calculations, saparated with a space: ";
+////    cin>>num1>>num2;
+////    cout<<"Please select an operator to perform calculation ('+','-','*','/','%'): ";
+////    cin>>opert;
+////    switch (opert) {
+////        case '+':
+////            res = num1 + num2;
+////            break;
+////        case '-':
+////            res = num1 - num2;
+////            break;
+////        case '*':
+////            res = num1 * num2;
+////            break;
+////        case '/':
+////            res = num1 / num2;
+////            break;
+////        case '%':
+////            res = num1 % num2;
+////            break;
+////        default:
+////            cout<<"The operator you entered isn't correct. Please try again."<<endl;
+////            break;
+////    }
+////    cout<<"The result of operator "<<opert<<" is: "<<res<<endl;
+//    return 0;
+//}

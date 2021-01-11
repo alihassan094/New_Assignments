@@ -1,0 +1,55 @@
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///********************************QUESTION 5*************************************************/ 
+//bool isvowel(char a);
+//int main()
+//{
+//    
+       
+//    
+//    char alphabet, con;
+//    float num {0};
+//    do
+//    {
+//        cout<<"Enter the alphabet please: ";
+//        cin>>alphabet;
+//        cout<<"Alphabet = "<<alphabet<<endl;
+//        cout<<"Enter the number please: ";
+//        cin>>num;
+//        cout<<"Number = "<<num<<endl;
+//        if (isupper(alphabet) && isvowel(alphabet))
+//        {
+//            cout<<"The alphabet is uppercase and vowel, and the result is = "<<pow(num,2)<<endl;
+//        }
+//        else if (isupper(alphabet) && !isvowel(alphabet))
+//        {
+//            cout<<"The alphabet is uppercase but not vowel, and the result is = "<<2*num<<endl;
+//        }
+//        else if (islower(alphabet) && isvowel(alphabet))
+//        {
+//            cout<<"The alphabet is lowercase and vowel, and the result is = "<<pow(num,3)<<endl;
+//        }
+//        else if (islower(alphabet) && !isvowel(alphabet))
+//        {
+//            cout<<"The alphabet is lowercase but not vowel, and the result is = "<<3*num<<endl;
+//        }
+//        else if (!isalpha(alphabet) && !isdigit(alphabet))
+//        {
+//            cout<<"The character is a special character and the result is = "<<num<<endl;
+//        }
+//        cout<<"Press Y if you wish to continue: ";
+//        cin>>con;
+//    }
+//    while(con=='Y' || con=='y');
+//    return 0;
+//}
+//
+//
+//bool isvowel(char a)
+//{
+//    if (a == 'A' || a == 'E' || a == 'I' || a == 'O' || a == 'U' || a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u')
+//        return true;
+//    else
+//        return false;
+//}
